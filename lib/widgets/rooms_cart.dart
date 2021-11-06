@@ -29,7 +29,7 @@ class RoomsCart extends StatelessWidget {
                       fontWeight: FontWeight.w500,
                       letterSpacing: 1.6,
                       fontSize: 12.0),
-                  overflow: TextOverflow.ellipsis,
+                  
                 ),
                 Text(
                   room.name,
