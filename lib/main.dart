@@ -1,8 +1,7 @@
-// ignore_for_file: deprecated_member_use, prefer_const_constructors
-
+import 'package:club_house_ui/config/palette.dart';
 import 'package:club_house_ui/screens/home_screen.dart';
 import 'package:flutter/material.dart';
-import 'config/palette.dart';
+
 import 'package:google_fonts/google_fonts.dart';
 
 void main() {
